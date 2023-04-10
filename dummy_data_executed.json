@@ -1,0 +1,179 @@
+{
+  "loadTripPlanExecution": [
+    {
+      "actualEndTime": "2023-04-06 13:41:38.16",
+      "actualStartTime": "2023-04-06 08:47:38.367",
+      "dockDoor": "Dock-23",
+      "pslTimeDiff": 0.0,
+      "tripId": "83435100-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 13:35:20.88",
+      "actualStartTime": "2023-04-06 08:09:26.2",
+      "dockDoor": "Dock-25",
+      "pslTimeDiff": 0.0,
+      "tripId": "83435099-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 12:33:51.833",
+      "actualStartTime": "2023-04-06 08:18:13.397",
+      "dockDoor": "Dock-27",
+      "pslTimeDiff": 0.0,
+      "tripId": "83430823-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 13:10:41.4",
+      "actualStartTime": "2023-04-06 10:25:40.683",
+      "dockDoor": "Dock-28",
+      "pslTimeDiff": 0.0,
+      "tripId": "83435098-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 07:45:13.183",
+      "actualStartTime": "2023-04-06 00:59:16.81",
+      "dockDoor": "Dock-29",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436691-2"
+    },
+    {
+      "actualEndTime": "2023-04-06 10:20:32.903",
+      "actualStartTime": "2023-04-06 03:27:44.173",
+      "dockDoor": "Dock-30",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436943-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 12:39:54.27",
+      "actualStartTime": "2023-04-06 10:48:50.827",
+      "dockDoor": "Dock-31",
+      "pslTimeDiff": 0.0,
+      "tripId": "83435124-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 03:27:41.63",
+      "actualStartTime": "2023-04-05 22:22:12.37",
+      "dockDoor": "Dock-31",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436907-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 05:15:26.39",
+      "actualStartTime": "2023-04-06 00:45:35.983",
+      "dockDoor": "Dock-32",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436906-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 10:08:52.747",
+      "actualStartTime": "2023-04-06 07:10:32.817",
+      "dockDoor": "Dock-33",
+      "pslTimeDiff": 0.0,
+      "tripId": "83430822-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 02:30:03.74",
+      "actualStartTime": "2023-04-05 21:47:32.437",
+      "dockDoor": "Dock-33",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436694-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 09:51:39.147",
+      "actualStartTime": "2023-04-06 04:52:48.73",
+      "dockDoor": "Dock-36",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436945-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 13:50:40.067",
+      "actualStartTime": "2023-04-06 10:11:12.19",
+      "dockDoor": "Dock-37",
+      "pslTimeDiff": 0.0,
+      "tripId": "83435122-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 04:10:37.503",
+      "actualStartTime": "2023-04-05 22:28:40.617",
+      "dockDoor": "Dock-37",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436946-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 13:36:49.1",
+      "actualStartTime": "2023-04-06 10:31:41.82",
+      "dockDoor": "Dock-38",
+      "pslTimeDiff": 0.0,
+      "tripId": "83430820-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 06:45:17.323",
+      "actualStartTime": "2023-04-06 00:42:23.15",
+      "dockDoor": "Dock-38",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436941-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 09:27:36.51",
+      "actualStartTime": "2023-04-06 07:53:52.143",
+      "dockDoor": "Dock-39",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436689-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 02:29:57.157",
+      "actualStartTime": "2023-04-05 21:56:40.16",
+      "dockDoor": "Dock-39",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436942-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 06:22:17.567",
+      "actualStartTime": "2023-04-06 02:43:28.47",
+      "dockDoor": "Dock-40",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436692-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 02:29:53.38",
+      "actualStartTime": "2023-04-05 22:03:55.843",
+      "dockDoor": "Dock-41",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436939-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 11:06:00.443",
+      "actualStartTime": "2023-04-06 07:27:50.57",
+      "dockDoor": "Dock-41",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436944-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 07:57:34.02",
+      "actualStartTime": "2023-04-06 03:35:57.163",
+      "dockDoor": "Dock-42",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436940-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 02:46:41.26",
+      "actualStartTime": "2023-04-05 21:54:32.087",
+      "dockDoor": "Dock-43",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436690-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 10:41:45.977",
+      "actualStartTime": "2023-04-06 08:07:48.86",
+      "dockDoor": "Dock-43",
+      "pslTimeDiff": 0.0,
+      "tripId": "83436693-1"
+    },
+    {
+      "actualEndTime": "2023-04-06 12:32:02.733",
+      "actualStartTime": "2023-04-06 08:07:59.95",
+      "dockDoor": "Dock-44",
+      "pslTimeDiff": 0.0,
+      "tripId": "83430825-1"
+    }
+  ]
+}
